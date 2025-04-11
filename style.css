@@ -165,4 +165,9 @@ li a {
     p{
         font-size: 20px;
     }
+    .habilidade{
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
 }
